@@ -1,0 +1,5 @@
+{{#user}}
+Name: Prince Kr Deka
+Skills: HTML, CSS, JS, Reactjs, Docker, Jenkins, AWS S3, CI/CD
+Email: princedeka00@gmail.com
+{{/user}}
